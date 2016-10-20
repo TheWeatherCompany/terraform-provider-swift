@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/hashicorp/terraform/builtin/providers/swift"
+	"github.com/TheWeatherCompany/terraform-provider-swift/swift"
 	"github.com/hashicorp/terraform/plugin"
 )
 
